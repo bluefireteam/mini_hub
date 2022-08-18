@@ -3,5 +3,10 @@
     "name": "Basic Block Tiles",
     "description": "A MiniLibrary with basic block tileset",
     "path": "basic_block_tiles.json"
+  },
+  {
+    "name": "Mushroom World",
+    "description": "A MiniLibrary with basic mushroom inspired tileset",
+    "path": "mushroom_world.json"
   }
 ]
