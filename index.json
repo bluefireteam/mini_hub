@@ -13,5 +13,10 @@
     "name": "Mini Space",
     "description": "A MiniLibrary with a few space themed sprites",
     "path": "mini_space.json"
+  },
+  {
+    "name": "Mini Castle",
+    "description": "A MiniLibrary with basic castle inspired tileset",
+    "path": "mini_castle.json"
   }
 ]
