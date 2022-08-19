@@ -8,5 +8,10 @@
     "name": "Mushroom World",
     "description": "A MiniLibrary with basic mushroom inspired tileset",
     "path": "mushroom_world.json"
+  },
+  {
+    "name": "Mini Space",
+    "description": "A MiniLibrary with a few space themed sprites",
+    "path": "mini_space.json"
   }
 ]
